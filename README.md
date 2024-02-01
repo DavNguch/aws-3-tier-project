@@ -85,10 +85,6 @@ You can customize the project by modifying the following:
 - [Terraform Documentation](https://www.terraform.io/docs/index.html)
 - [AWS Documentation](https://docs.aws.amazon.com/index.html)
 
-## Support
-
-For support, contact [support@example.com](mailto:support@example.com).
-
 ---
 
 Feel free to enhance this readme file with additional details specific to your project or organization.
